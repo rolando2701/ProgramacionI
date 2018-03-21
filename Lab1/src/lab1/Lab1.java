@@ -17,6 +17,7 @@ public class Lab1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("This is a test in GitHub");
+        System.err.println("update to see repository");
         
     }
     
