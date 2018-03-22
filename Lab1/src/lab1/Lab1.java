@@ -18,6 +18,7 @@ public class Lab1 {
         // TODO code application logic here
         System.err.println("This is a test in GitHub");
         System.err.println("update to see repository");
+        System.out.println("EjemploEnClase");
         
     }
     
